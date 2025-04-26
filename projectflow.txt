@@ -1,0 +1,9 @@
+install vite 
+
+install shadcn 
+
+install different components
+
+
+
+Adding routing feature
